@@ -12,4 +12,4 @@
 - [My Certification Journey](certifications.md)
 
 **VSCode Configuration on macOS**
-[image](images/Screen Shot 2020-12-28 at 12.06.35 PM.png)
+![Image](images/Screen Shot 2020-12-28 at 12.06.35 PM.png)
