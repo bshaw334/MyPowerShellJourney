@@ -1,6 +1,6 @@
 ## Typical use case scenarios
 
-## I will cover the topics.
+### I will cover the topics.
 - [What is Powershell?](what-is-powershell.md)
 - [Configurations for desktops](configurations.md)
 - [Typical uses](typical-uses.md)
