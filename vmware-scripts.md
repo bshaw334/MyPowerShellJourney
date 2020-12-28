@@ -1,4 +1,4 @@
-## VMware Scripts
+### VMware Scripts
 
 - [What is Powershell?](what-is-powershell.md)
 - [Configurations for desktops](configurations.md)

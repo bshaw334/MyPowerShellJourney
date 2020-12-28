@@ -1,4 +1,4 @@
-### Ways to Automate Simple Tasks
+### My Certifications Paths
 
 ## I will cover the topics.
 - [What is Powershell?](what-is-powershell.md)

@@ -10,3 +10,4 @@ My name is Jason "bshaw334" Bradshaw and I'm a systems administrator and I tinke
 - [Active Directory Scripts](ad-scripts.md)
 - [Azure Scripts](azure-scripts.md)
 - [VMware Scripts](vmware-scripts.md)
+- [My Certification Journey](certifications.md)
