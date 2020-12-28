@@ -1,5 +1,6 @@
 ### Active Directory Scripts
 
+## I will cover the topics.
 - [What is Powershell?](what-is-powershell.md)
 - [Configurations for desktops](configurations.md)
 - [Typical uses](typical-uses.md)
@@ -8,6 +9,7 @@
 - [Active Directory Scripts](ad-scripts.md)
 - [Azure Scripts](azure-scripts.md)
 - [VMware Scripts](vmware-scripts.md)
+- [My Certification Journey](certifications.md)
 
 **Active Directory - List Users from a Group**
 ```markdown
