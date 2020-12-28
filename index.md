@@ -3,7 +3,10 @@ My name is Jason "bshaw334" Bradshaw and I'm a systems administrator and I tinke
 
 ## I will cover the topics.
 - What is Powershell?
+- My configurations
 - Typical uses
 - Basic syntax
 - Ways to automate simple tasks
-
+- Active Directory Scripts
+- Azure Scripts
+- VMware Scripts
