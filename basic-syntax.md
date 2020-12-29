@@ -10,3 +10,13 @@
 - [Azure Scripts](azure-scripts.md)
 - [VMware Scripts](vmware-scripts.md)
 - [My Certification Journey](certifications.md)
+
+**Powershell Version**
+```Markdown
+$PSVersionTable
+```
+
+**Current User**
+```Markdown
+whoami
+```
