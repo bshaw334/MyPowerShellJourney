@@ -10,3 +10,8 @@
 - [Azure Scripts](azure-scripts.md)
 - [VMware Scripts](vmware-scripts.md)
 - [My Certification Journey](certifications.md)
+
+**Connect to an Azure Account**
+```Markdown
+Connect-AzAccount
+```
