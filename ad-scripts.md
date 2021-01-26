@@ -17,3 +17,8 @@ dsquery group -samid "(add group name)" | dsget group -members | dsget user -dis
 ```
 dsquery group gets the domain services group by the -samid; dsget group gets the -members listed in the group; dsget user gets the users infomartion by therequested tags; >>writes the results to a specified file
 
+**File System - Search for File Name in a Directory**
+```markdown
+Get-ChildItem -Path "C:\Users\MyAccount" -Recurse -Include *Search Criteria* | Out-File -FilePath "C:\Users\MyAccount\Desktop\results.csv"
+```
+
