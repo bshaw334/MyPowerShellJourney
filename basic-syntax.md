@@ -19,6 +19,16 @@ Other options for getting strictly the version only. So you can use a dot (.) to
 ```Markdown
 $PSVersionTable.PSVersion
 ```
+**Comments**
+```Markdown
+#Single line comment
+
+<# Multi-line comment
+Works
+Like
+This
+#>
+```
 
 **Current User**
 ```Markdown
